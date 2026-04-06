@@ -14,6 +14,7 @@ The goal of this project is to **empirically validate** this claim using **TabPF
 ## Motivation
 
 Traditional tabular ML approaches treat categorical variables as independent (e.g., one-hot encoding). However, the whitepaper argues that:
+Paper link: https://fundamental.tech/whitepaper.pdf
 
 - One-hot encoding ignores relationships between categories
 - Embeddings capture semantic similarity (e.g., "Paris" closer to "London" than "Banana")
